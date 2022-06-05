@@ -1,7 +1,7 @@
 # Aprendendo Python para Data Science
-> Numpy
-> Pandas
-> Matplotlib
-> Seaborn
-> Web scraping
-> Corretor
+> Numpy<p>
+> Pandas<p>
+> Matplotlib<p>
+> Seaborn<p>
+> Web scraping<p>
+> Corretor<p>
